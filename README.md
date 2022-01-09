@@ -48,7 +48,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heroku077/EvaMaria)
 ## Deploy
 You can deploy this bot anywhere.
 
