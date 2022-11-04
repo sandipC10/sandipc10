@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, "Mყƚԋσʅσɠყ Sҽɾιαʅ" Bσƚ  . Jυʂƚ Pɾҽʂʂ Sҽαɾƈԋ Bυƚƚσɳ 🔍 ,ʝσιɳ Oυɾ Uρԃαƚҽ Cԋαɳɳҽʅ , ︽ Sƈɾσʅʅ Wԋιƈԋ Sҽɾιαʅ Uρԃαƚҽԃ Iɳ Bσƚ 🤖Aɳԃ Sҽαɾƈԋ Oɾ Tɾყ Pɱ Sҽαɾƈԋ ❓(Dιɾҽƈƚ Sҽαɾƈԋ Oɳ Bσƚ Lιƙҽ Cԋαƚ)  Tԋαɳƙ ყσυ 
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 DEVELOPED AND MANAGED BY @mr_anshu_07."""
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 DEVELOPED AND MANAGED BY @Sandipchavan10."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Sandipchavan10>Sαɳԃιρ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
