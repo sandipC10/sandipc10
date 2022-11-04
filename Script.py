@@ -22,7 +22,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and *IRON MAN* will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. IRON MAN should have admin privillage.
+1.  𝕽α∂нαкяιѕнη should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -58,7 +58,7 @@ class script(object):
 - it helps to avoid spamming in groups.
 
 <b>NOTE:</b>
-1. Only *OWNEE OF BOT WHO DEPLOYED* can add a connection IF U TRY THIS I'LL BAN U FOR NO REASON GOTT IT!!! 👿😡.
+1. Only Bot Owner can add a connection If You TRY THIS I'LL BAN U FOR NO REASON GOTT IT!!!😡.
 2. Send <code>/connect</code> for connecting me to ur PM I'LL SAVE UR ALL TELEGRAM CHAT MEDIA FILES ETC. IN MY DB FOR MY OWNER!!😎😎
 
 <b>Commands and Usage:</b>
