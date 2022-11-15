@@ -4,13 +4,13 @@ class script(object):
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 Devoloper & Manage BY @𝘚𝘢𝘯𝘥𝘪𝘱𝘤𝘩𝘢𝘷𝘢𝘯10."""
-    ABOUT_TXT = """♟ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-♟ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Sandipchavan10>Sαɳԃιρ</a>
-♟ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-♟ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-♟ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-♟ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠...
-♟ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ Beta ]"""
+    ABOUT_TXT = """• 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+• 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Sandipchavan10>Sαɳԃιρ</a>
+• 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href=https://t.me/Sandipchavan10>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
+• 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a href=https://t.me/Sandipchavan10>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
+• 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Sandipchavan10>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
+• 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠...
+• 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ Beta ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝕽α∂нαкяιѕнη Bot is Not a open source Project. 
 - Source - https://t.me/Sandipchavan10  
