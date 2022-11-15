@@ -13,7 +13,7 @@ class script(object):
 • 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ Beta ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝕽α∂нαкяιѕнη Bot is Not a open source Project. 
-- Source - https://t.me/Sandipchavan10  
+- Source - https://t.me/Radhekrishn_bot  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Sandipchavan10>Sαɳԃιρ</a>"""
